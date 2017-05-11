@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0830"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "58B75D641E867D9700291E37"
-               BuildableName = "WeatherInfo.app"
-               BlueprintName = "WeatherInfo"
-               ReferencedContainer = "container:WeatherInfo.xcodeproj">
+               BlueprintIdentifier = "6A52446C053F219390EF0A43E5C425A7"
+               BuildableName = "SDWebImage.framework"
+               BlueprintName = "SDWebImage"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "58B75D641E867D9700291E37"
-            BuildableName = "WeatherInfo.app"
-            BlueprintName = "WeatherInfo"
-            ReferencedContainer = "container:WeatherInfo.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "58B75D641E867D9700291E37"
-            BuildableName = "WeatherInfo.app"
-            BlueprintName = "WeatherInfo"
-            ReferencedContainer = "container:WeatherInfo.xcodeproj">
+            BlueprintIdentifier = "6A52446C053F219390EF0A43E5C425A7"
+            BuildableName = "SDWebImage.framework"
+            BlueprintName = "SDWebImage"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "58B75D641E867D9700291E37"
-            BuildableName = "WeatherInfo.app"
-            BlueprintName = "WeatherInfo"
-            ReferencedContainer = "container:WeatherInfo.xcodeproj">
+            BlueprintIdentifier = "6A52446C053F219390EF0A43E5C425A7"
+            BuildableName = "SDWebImage.framework"
+            BlueprintName = "SDWebImage"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
